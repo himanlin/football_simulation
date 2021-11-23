@@ -1,3 +1,6 @@
+#code for "How do athletic labor markets become globalized? Agent-based simulations of club recruitment behavior in the worldwide market for football talent"
+#by Man-Lin Chen in 2021
+
 import time
 import numpy as np
 import random
